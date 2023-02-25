@@ -1,0 +1,20 @@
+# Site settings
+title: "Examen DP-900"
+description: "Aspectos básicos de los datos en Microsoft Azure"
+github_username: ChristianGrimberg
+author: "Christian Grimberg"
+
+# Build settings
+#theme: jekyll-theme-cayman
+remote_theme: ChristianGrimberg/Jekyll-Theme
+header_pages:
+  - index.html
+plugins:
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jemoji
+markdown: kramdown
+kramdown:
+   syntax_highlighter_opts:
+      disable : true
+show_downloads: false
