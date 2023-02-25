@@ -5,7 +5,8 @@ layout: home
 
 # DP-900: Aspectos básicos de los datos en Microsoft Azure
 
-## Documentación relacionada del sitio de [Microsoft Docs](https://learn.microsoft.com/es-es/certifications/exams/dp-900/)
+* [Exámen de certificación DP-900](https://learn.microsoft.com/es-es/certifications/exams/dp-900/)
+* [Guía de estudio para el exámen DP-900](https://learn.microsoft.com/es-es/certifications/resources/study-guides/dp-900)
 
 ## Módulos de aprendisaje
 
