@@ -1,6 +1,7 @@
 ---
 document:
-  dp900Title: 'Módulo 1: Formatos principales de los datos'
+  dp900Module: 'Módulo 1'
+  dp900Title: 'Formatos principales de los datos'
 ---
 
 # Identificación de los formatos de los datos

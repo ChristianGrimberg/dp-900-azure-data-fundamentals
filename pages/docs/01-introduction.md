@@ -1,6 +1,7 @@
 ---
 document:
-  dp900Title: 'Módulo 1: Introducción a los conceptos principales de los datos'
+  dp900Module: 'Módulo 1'
+  dp900Title: 'Introducción a los conceptos principales de los datos'
 ---
 
 # Introduccion
