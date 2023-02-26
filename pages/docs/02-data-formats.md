@@ -14,4 +14,4 @@ Los datos se pueden clasificar en __estructurados__, __semiestructurados__ o __n
 
 Los datos estructurados son aquellos que se ajustan a un __esquema__ fijo, en donde todos ellos tienen los mismos campos o propiedades. Normalmente, el esquema de las entidades de datos estructurados es __tabular__, es decir, los datos se representan en una o en varias tablas que constan de filas para representar cada instancia de una entidad de datos y columnas para representar los atributos de la entidad.
 
-![Diagrama tabular](img/2-tabular-diagram.png)
+![Diagrama tabular](../img/2-tabular-diagram.png)
