@@ -21,6 +21,18 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
+  # Validation job
+  validation:
+    name: Markdown Validation with Markdownlint
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: DavidAnson/markdownlint-cli2-action@v5
+      with:
+        globs: |
+          index.md
+          pages/**/*.md
+
   # Build job
   build:
     runs-on: ubuntu-latest
