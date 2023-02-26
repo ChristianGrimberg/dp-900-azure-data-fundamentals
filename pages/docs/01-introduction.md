@@ -15,3 +15,5 @@ Los objetivos de aprendizaje serán los siguientes:
 * Describir las opciones para almacenar los datos en bases de datos
 * Describir las características de las soluciones de procesamiento de datos transaccionales
 * Describir las características de las soluciones de procesamiento de datos analíticos
+
+[Unidad siguiente: Principales formatos de los datos](02-data-formats.md)

@@ -91,3 +91,5 @@ Habitualmente se usan dos categorías generales de almacén de datos:
 
 * Almacenes de archivos
 * Bases de datos
+
+[Unidad siguiente: Análisis sobre el almacenamiento de archivos](03-storing-files.md)
