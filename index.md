@@ -11,7 +11,7 @@ layout: home
 ## Módulos de aprendisaje
 
 {% assign modules = site.pages | where_exp: "page", "page.url contains '/pages/docs'" %}
-| Sección | Unidad |
-| ------- | ------ |
-{% for activity in modules %}{% if activity.document.dp900Title %}| {{ activity.document.dp900Module }} | [{{ activity.document.dp900Title }}]({{ site.github.url }}{{ activity.url }}) |
+| Sección | Unidad | Descripción |
+| ------- | ------ | ----------- |
+{% for activity in modules %}{% if activity.document.dp900Title %}| {{ activity.document.dp900Module }} | {{ activity.document.dp900Unit }} | [{{ activity.document.dp900Title }}]({{ site.github.url }}{{ activity.url }}) |
 {% endif %}{% endfor %}
