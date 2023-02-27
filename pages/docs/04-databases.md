@@ -1,10 +1,10 @@
 ---
 document:
   dp900Module: 'Módulo 1'
-  dp900Title: 'Análisis sobre bases de datos'
+  dp900Title: 'Análisis sobre las bases de datos'
 ---
 
-# Introducción
+# Análisis sobre las bases de datos
 
 Las bases de datos se usan para definir un sistema central en el que los datos se pueden almacenar y consultar. En un sentido simplista, el sistema de archivos en el que se almacenan los archivos es de un tipo de base de datos, pero cuando usamos el término en un contexto de datos profesional, normalmente nos referimos a un sistema dedicado para administrar registros de datos en lugar de archivos.
 

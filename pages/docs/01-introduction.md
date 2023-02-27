@@ -4,7 +4,7 @@ document:
   dp900Title: 'Introducción a los principales conceptos de los datos'
 ---
 
-# Introduccion
+# Introducción a los principales conceptos de los datos
 
 A continuación, obtendremos información sobre las opciones para representar y almacenar los datos, así como también sobre las cargas típicas de trabajo de datos.
 
