@@ -5,15 +5,13 @@ document:
   dp900Title: 'Principales formatos de los datos'
 ---
 
-# Principales formatos de los datos
-
-## Identificación de los formatos de los datos
+# Identificación de los principales formatos de los datos
 
 Los datos son una colección de elementos, como números, descripciones y observaciones, que se usan para registrar la información. Las estructuras de los datos en las que se organizan los mismos suelen representar __entidades__, las cuáles son importantes para una organización (como los clientes, productos, pedidos de ventas, etcétera). Normalmente, cada entidad tiene uno o varios __atributos__ o características (por ejemplo, un cliente podría tener un nombre, una dirección, un número de teléfono, etc.).
 
 Los datos se pueden clasificar en __estructurados__, __semiestructurados__ o __no estructurados__.
 
-### Datos estructurados
+## Datos estructurados
 
 Los datos estructurados son aquellos que se ajustan a un __esquema__ fijo, en donde todos ellos tienen los mismos campos o propiedades. Normalmente, el esquema de las entidades de datos estructurados es __tabular__, es decir, los datos se representan en una o en varias tablas que constan de filas para representar cada instancia de una entidad de datos y columnas para representar los atributos de la entidad.
 
@@ -23,7 +21,7 @@ En la imagen siguiente se muestran las representaciones de datos tabulares para 
 
 Los datos estructurados suelen almacenarse en bases de datos en la que varias tablas pueden hacer referencia entre sí mediante el uso de valores de tipo __clave__ en un modelo __relacional__.
 
-### Datos semiestructurados
+## Datos semiestructurados
 
 Los datos semiestructurados tienen cierta __estructura__, pero que se le permiten alguna variación entre las instancias de entidad. Por ejemplo, aunque la mayoría de los clientes pueden tener una dirección de correo electrónico, algunos podrían tener varias y otros, ninguna.
 
@@ -80,13 +78,13 @@ En el siguiente ejemplo se muestra un documento JSON que representa información
 
 > Nota: JSON es solo una de las muchas maneras en las que se pueden representar los datos semiestructurados.
 
-### Datos no estructurados
+## Datos no estructurados
 
 No todos los datos son estructurados o semiestructurados. Por ejemplo, los documentos, imágenes, datos de audio y de vídeo y archivos binarios podrían no tener una estructura específica. Este tipo de datos se los conoce como datos no estructurados.
 
 ![Datos binarios](../img/02-unstructured-data.png)
 
-### Almacenes de datos
+## Almacenes de datos
 
 Las organizaciones suelen almacenar los datos en formato estructurado, semiestructurado o no estructurado para registrar los detalles de las entidades (por ejemplo, de los clientes y productos), eventos específicos (como las transacciones de ventas) u otra información en documentos, imágenes y otros formatos. Los datos almacenados se pueden recuperar para su análisis y para la generación de informes.
 
