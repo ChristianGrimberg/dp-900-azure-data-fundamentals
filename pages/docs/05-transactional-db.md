@@ -21,3 +21,5 @@ Las soluciones OLTP se basan en un sistema de base de datos en el que el almacen
 * __Durabilidad__: cuando se ha confirmado una transacción, permanece confirmada. Una vez que la transacción de transferencia de la cuenta se ha completado, los saldos revisados de las cuentas se conservan, de modo que, incluso si el sistema de base de datos se desactiva, la transacción confirmada se refleje cuando se vuelva a activar.
 
 Los sistemas OLTP suelen usarse para admitir aplicaciones activas que procesan datos empresariales, a menudo denominadas _Aplicaciones de Negocio en Línea_ (LOB).
+
+[Unidad siguiente: Análisis sobre el procesamiento de datos analíticos](06-analitical-data.md)
