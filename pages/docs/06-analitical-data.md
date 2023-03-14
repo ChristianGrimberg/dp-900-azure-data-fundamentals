@@ -22,10 +22,10 @@ Los _lagos de datos_ (Data Lake) son comunes en escenarios de procesamiento anal
 
 Los _almacenes de datos_ (Data Warehouse) son un recurso establecido para almacenar datos en un esquema relacional optimizado para operaciones de lectura, principalmente con consultas que admiten informes y permiten la visualización de datos. El esquema del almacen de datos puede requerir alguna desnormalización de los datos en un origen de datos OLTP (que introduce cierta duplicación para que las consultas se lleven a cabo con mayor rapidez).
 
-Un modelo OLAP es un tipo de composición de almacenamiento de datos optimizado para cargas de trabajo analíticas. Las adiciones de datos se encuentran en diferentes dimensiones y en distintos niveles, lo que permite rastrearlos agrupando los datos y explorando en profundidad las agregaciones en varios niveles jerárquicos; por ejemplo, para buscar el total de ventas por región, por ciudad o por una dirección individual. Dado que los datos de OLAP se agregan previamente, las consultas para devolver los mismos resúmenes que contienen se pueden ejecutar rápidamente.
+Un modelo OLAP es un tipo de composición de almacenamiento de datos optimizado para cargas de trabajo analíticas. Las adiciones de datos se encuentran en diferentes dimensiones y en distintos niveles, lo que permite rastrearlos agrupando los datos y explorando en profundidad las mismas adiciones en varios niveles jerárquicos; por ejemplo, para buscar el total de ventas por región, por ciudad o por una dirección individual. Dado que los datos de OLAP se agregan previamente, las consultas para devolver los datos sumarizados que contienen se pueden ejecutar rápidamente.
 
 Los diferentes tipos de usuario pueden llevar a cabo el trabajo analítico de datos en distintas fases de la arquitectura en general. Por ejemplo:
 
 * Los científicos de datos pueden trabajar directamente con archivos de datos en un lago de datos para explorar los datos y crear modelos a partir de estos.
-* Los analistas de datos pueden consultar tablas directamente en el almacenamiento de datos para generar informes y visualizaciones complejas.
+* Los analistas de datos pueden consultar tablas directamente en el almacenamiento de datos para generar informes y generar visualizaciones complejas.
 * Los usuarios profesionales pueden consumir datos agregados previamente en un modelo analítico como en los informes o en paneles.
