@@ -16,7 +16,8 @@
 			"extensions": [
 				"DavidAnson.vscode-markdownlint",
 				"eamodio.gitlens",
-				"hediet.vscode-drawio"
+				"hediet.vscode-drawio",
+				"GitHub.vscode-github-actions"
 			]
 		}
 	},
