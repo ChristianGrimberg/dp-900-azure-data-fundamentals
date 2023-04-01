@@ -11,7 +11,7 @@ Normalmente, el procesamiento de datos analíticos se usa con sistemas de solo l
 
 Los detalles específicos de un sistema de procesamiento de datos analítico pueden variar según la solución, pero para una arquitectura común de análisis a escala empresarial tiene el siguiente aspecto:
 
-![Procesamiento tanalítico](../img/06-analytical-processing.png)
+![Procesamiento tanalítico](../img/analytical-processing.png)
 
 1. Los archivos de datos se pueden almacenar en un _lago de datos_ central para analizarlos.
 1. Un proceso de _extracción, transformación y carga_ (ETL) permite copiar datos de archivos y bases de datos OLTP en un _almacen de datos_ optimizado para la actividad de lectura. Normalmente, un esquema de almacenamiento de datos se basa en _tablas de hechos_ que contienen los valores numéricos que se quieren analizar (por ejemplo, los importes de ventas), con _tablas de dimensiones relacionadas_ que terminan representando las entidades por las que se quiere medir (por ejemplo, de clientes o productos).
