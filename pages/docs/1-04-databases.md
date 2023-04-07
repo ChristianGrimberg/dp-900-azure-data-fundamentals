@@ -15,7 +15,7 @@ Las bases de datos relacionales suelen usarse para almacenar y consultar datos e
 
 El uso de claves para hacer referencia a entidades de datos permite __normalizar__ una base de datos relacional. En parte, esto conlleva la eliminación de valores de datos duplicados para que, por ejemplo, los detalles de un cliente individual se almacenen una sola vez, no para cada pedido de ventas que realiza el cliente. Las tablas se administran y consultan mediante el _Lenguaje de Consulta Estructurado_ (SQL), que se basa en un estándar _ANSII_, por lo que es similar en varios sistemas de base de datos.
 
-![Base de datos relacional](img/relational-database.png)
+![Base de datos relacional](../img/relational-database.png)
 
 ## Bases de datos no relacionales
 
@@ -25,18 +25,18 @@ Hay cuatro tipos comunes de bases de datos no relacionales que se usan habitualm
 
 * Las __bases de datos clave-valor__, en las que cada registro consta de una clave única y un valor asociado, que puede estar en cualquier formato.
 
-  ![Base de datos clave valor](img/key-value-store.png)
+  ![Base de datos clave valor](../img/key-value-store.png)
 
 * Las __bases de datos de documentos__, que son una forma específica de base de datos clave-valor, en la que el valor es un documento JSON (en el que el sistema está optimizado para analizar y consultar).
 
-  ![Base de datos de documentos](img/document-store.png)
+  ![Base de datos de documentos](../img/document-store.png)
 
 * Las __bases de datos de familia de columnas__, que almacenan datos tabulares con filas y columnas, pero con la posibilidad de dividir esas columnas en grupos, conocidos como familias de columnas. Cada familia de columnas contiene un conjunto de columnas que tienen una relación lógica entre sí.
 
-  ![Base de datos de familia de columnas](img/column-family-store.png)
+  ![Base de datos de familia de columnas](../img/column-family-store.png)
 
 * Las __bases de datos de grafos__, que almacenan entidades como nodos con vínculos para definir relaciones entre ellas.
 
-  ![Base de datos de grafos](img/graph.png)
+  ![Base de datos de grafos](../img/graph.png)
 
 [Unidad siguiente: Análisis sobre el procesamiento de datos transaccionales](05-transactional-db.md)

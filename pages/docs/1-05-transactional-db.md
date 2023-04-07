@@ -11,7 +11,7 @@ Un sistema de procesamiento de datos transaccional es lo que la mayoría de los 
 
 Los sistemas transaccionales suelen ser de gran volumen, a veces, controlan muchos millones de transacciones en un solo día y se debe poder acceder a los datos que se procesan con mucha rapidez. El trabajo que realizan los sistemas transaccionales a menudo se conoce como _Procesamiento de Transacciones en Línea_ (OLTP).
 
-![Procesamiento transaccional](img/transactional-processing.png)
+![Procesamiento transaccional](../img/transactional-processing.png)
 
 Las soluciones OLTP se basan en un sistema de base de datos en el que el almacenamiento de datos está optimizado tanto para las operaciones de lectura como para las de escritura, con el fin de admitir cargas de trabajo transaccionales en las que se crean, recuperan, actualizan y eliminan registros de datos (a menudo denominadas _Operaciones CRUD_). Estas operaciones se aplican transaccionalmente, de una forma que garantiza la integridad de los datos almacenados en la base de datos. Para ello, los sistemas OLTP aplican transacciones que admiten la denominada semántica _ACID_:
 

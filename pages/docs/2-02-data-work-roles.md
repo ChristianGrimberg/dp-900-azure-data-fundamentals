@@ -19,19 +19,19 @@ Estos son los tres roles de trabajo principales que se ocupan de los datos de la
 
 ## Administrador de base de datos
 
-![Administrador de base de datos](img/db-administrator.png) El administrador de base de datos de Azure es responsable del diseño, la implementación, el mantenimiento y los aspectos operativos de los sistemas de bases de datos locales y los basados en la nube. Son responsables de la disponibilidad general y de la optimización y de un rendimiento coherente en las bases de datos. Trabajan con los interesados para implementar directivas, herramientas y procesos para la realización de copias de seguridad, así como planes de recuperación que permitan reponerse tras un desastre natural o un error humano.
+![Administrador de base de datos](../img/db-administrator.png) El administrador de base de datos de Azure es responsable del diseño, la implementación, el mantenimiento y los aspectos operativos de los sistemas de bases de datos locales y los basados en la nube. Son responsables de la disponibilidad general y de la optimización y de un rendimiento coherente en las bases de datos. Trabajan con los interesados para implementar directivas, herramientas y procesos para la realización de copias de seguridad, así como planes de recuperación que permitan reponerse tras un desastre natural o un error humano.
 
 Los administradores de base de datos también son responsables de administrar la seguridad de los datos en la base de datos, conceder privilegios sobre los datos, y conceder o denegar el acceso a los usuarios según corresponda.
 
 ## Ingeniero de datos
 
-![Ingeniero de datos](img/data-engineer.png) Los ingenieros de datos colaboran con los interesados para diseñar e implementar cargas de trabajo relacionadas con datos, incluidas canalizaciones de ingesta de datos, actividades de limpieza y transformación, y almacenes de datos para cargas de trabajo analíticas. Usan una amplia gama de tecnologías de plataforma de datos, como bases de datos relacionales y no relacionales, almacenes de archivos y flujos de datos.
+![Ingeniero de datos](../img/data-engineer.png) Los ingenieros de datos colaboran con los interesados para diseñar e implementar cargas de trabajo relacionadas con datos, incluidas canalizaciones de ingesta de datos, actividades de limpieza y transformación, y almacenes de datos para cargas de trabajo analíticas. Usan una amplia gama de tecnologías de plataforma de datos, como bases de datos relacionales y no relacionales, almacenes de archivos y flujos de datos.
 
 También son responsables de garantizar que la privacidad de los datos se mantenga dentro de la nube y que abarque desde el entorno local hasta los almacenes de datos en la nube. Se ocupan de la administración y la supervisión de canalizaciones de datos para asegurarse de que las cargas de datos funcionen según lo previsto.
 
 ## Analista de datos
 
-![Analista de datos](img/data-analyst.png) Un analista de datos ayuda a las empresas a maximizar el valor de sus recursos de datos. Son los responsables de explorar los datos para identificar tendencias y relaciones, diseñar e implementar modelos analíticos, y habilitar funcionalidades de análisis avanzadas mediante informes y visualizaciones.
+![Analista de datos](../img/data-analyst.png) Un analista de datos ayuda a las empresas a maximizar el valor de sus recursos de datos. Son los responsables de explorar los datos para identificar tendencias y relaciones, diseñar e implementar modelos analíticos, y habilitar funcionalidades de análisis avanzadas mediante informes y visualizaciones.
 
 Los analistas de datos se ocupan del procesamiento de los datos sin procesar para convertirlos en información pertinente, en función de los requisitos empresariales establecidos, con el fin de ofrecer conclusiones de interés.
 
