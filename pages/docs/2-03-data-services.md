@@ -137,3 +137,5 @@ Los ingenieros de datos pueden usar Microsoft Purview para aplicar la gobernanza
 ![Microsoft Power BI](../img/power-bi.png)
 
 Microsoft Power BI es una plataforma para el modelado de datos analíticos y la elaboración de informes que los analistas de datos pueden usar para crear y compartir visualizaciones de datos interactivas. Los informes de Power BI se pueden crear mediante la aplicación Power BI Desktop y, luego, publicarse y entregarse por medio de informes y aplicaciones basados en web en el servicio Power BI, así como en la aplicación móvil de Power BI.
+
+[Unidad siguiente: Análisis de conceptos fundamentales de los datos relacionales](3-01-introduction.md)
