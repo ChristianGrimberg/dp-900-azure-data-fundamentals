@@ -1,7 +1,7 @@
 ---
 document:
   dp900Module: 'Módulo 2'
-  dp900Unit: 'Unidad 7'
+  dp900Unit: 'Unidad 1'
   dp900Title: 'Introducción al análsis de roles y servicios de datos'
 ---
 
@@ -16,4 +16,4 @@ En este módulo, aprenderá a realizar lo siguiente:
 * Identificar los roles comunes de los profesionales de datos
 * Identificar los servicios comunes en la nube que son utilizados por los profesionales de datos
 
-[Unidad siguiente: Análisis de los roles de trabajo en el mundo de los datos](08-data-work-roles.md)
+[Unidad siguiente: Análisis de los roles de trabajo en el mundo de los datos](2-02-data-work-roles.md)

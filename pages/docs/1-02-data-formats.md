@@ -17,7 +17,7 @@ Los datos estructurados son aquellos que se ajustan a un __esquema__ fijo, en do
 
 En la imagen siguiente se muestran las representaciones de datos tabulares para las entidades _Customer_ y _Product_:
 
-![Diagrama tabular](../img/tabular-diagram.png)
+![Diagrama tabular](img/tabular-diagram.png)
 
 Los datos estructurados suelen almacenarse en bases de datos en la que varias tablas pueden hacer referencia entre sí mediante el uso de valores de tipo __clave__ en un modelo __relacional__.
 
@@ -82,7 +82,7 @@ En el siguiente ejemplo se muestra un documento JSON que representa información
 
 No todos los datos son estructurados o semiestructurados. Por ejemplo, los documentos, imágenes, datos de audio y de vídeo y archivos binarios podrían no tener una estructura específica. Este tipo de datos se los conoce como datos no estructurados.
 
-![Datos binarios](../img/unstructured-data.png)
+![Datos binarios](img/unstructured-data.png)
 
 ## Almacenes de datos
 
