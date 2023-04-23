@@ -22,4 +22,4 @@ Las soluciones OLTP se basan en un sistema de base de datos en el que el almacen
 
 Los sistemas OLTP suelen usarse para admitir aplicaciones activas que procesan datos empresariales, a menudo denominadas _Aplicaciones de Negocio en Línea_ (LOB).
 
-[Unidad siguiente: Análisis sobre el procesamiento de datos analíticos](06-analitical-data.md)
+[Unidad siguiente: Análisis sobre el procesamiento de datos analíticos](1-06-analitical-data.md)

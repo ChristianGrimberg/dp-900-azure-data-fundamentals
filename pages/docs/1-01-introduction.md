@@ -17,4 +17,4 @@ Los objetivos de aprendizaje serán los siguientes:
 * Describir las características de las soluciones de procesamiento de datos transaccionales
 * Describir las características de las soluciones de procesamiento de datos analíticos
 
-[Unidad siguiente: Principales formatos de los datos](02-data-formats.md)
+[Unidad siguiente: Principales formatos de los datos](1-02-data-formats.md)
