@@ -39,4 +39,4 @@ Hay cuatro tipos comunes de bases de datos no relacionales que se usan habitualm
 
   ![Base de datos de grafos](../img/graph.png)
 
-[Unidad siguiente: Análisis sobre el procesamiento de datos transaccionales](1-05-transactional-db.md)
+[Unidad siguiente: Análisis sobre el procesamiento de datos transaccionales](01-05-transactional-db.md)

@@ -30,4 +30,4 @@ Los diferentes tipos de usuario pueden llevar a cabo el trabajo analítico de da
 * Los analistas de datos pueden consultar tablas directamente en el almacenamiento de datos para generar informes y generar visualizaciones complejas.
 * Los usuarios profesionales pueden consumir datos agregados previamente en un modelo analítico como en los informes o en paneles.
 
-[Unidad siguiente: Introducción al análsis de roles y servicios de datos](2-01-introduction.md)
+[Unidad siguiente: Introducción al análsis de roles y servicios de datos](02-01-introduction.md)

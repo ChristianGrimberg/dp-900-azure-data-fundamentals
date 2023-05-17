@@ -16,4 +16,4 @@ En este módulo, aprenderá a realizar lo siguiente:
 * Identificar los roles comunes de los profesionales de datos
 * Identificar los servicios comunes en la nube que son utilizados por los profesionales de datos
 
-[Unidad siguiente: Análisis de los roles de trabajo en el mundo de los datos](2-02-data-work-roles.md)
+[Unidad siguiente: Análisis de los roles de trabajo en el mundo de los datos](02-02-data-work-roles.md)

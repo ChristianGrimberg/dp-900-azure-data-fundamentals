@@ -15,4 +15,4 @@ Las tablas relacionales son un formato para los datos estructurados y cada fila 
 
 Cada columna almacena los datos de un tipo de datos específico. Por ejemplo, una columna __Email__ de una tabla __Customer__ probablemente se definiría para almacenar datos basados en caracteres (texto), que podrían ser de longitud fija o variable. Una columna __Price__ de una tabla __Product__ podría definirse para almacenar datos numéricos decimales, mientras que una columna __Quantity__ de una tabla __Order__ podría estar restringida a valores numéricos enteros. Una columna __OrderDate__ de la misma tabla __Order__ se definiría para almacenar valores de fecha y hora. Los tipos de datos disponibles que se pueden usar al definir una tabla dependen del sistema de base de datos que se use, aunque hay tipos de datos estándar definidos por el _American National Standards Institute_ (ANSI) que son compatibles con la mayoría de los sistemas de base de datos.
 
-[Unidad siguiente: [Unidad siguiente: Comprensión de la normalización](3-03-normaliation.md)
+[Unidad siguiente: Comprensión de la normalización](03-03-normaliation.md)

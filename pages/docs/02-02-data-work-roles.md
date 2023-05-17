@@ -37,4 +37,4 @@ Los analistas de datos se ocupan del procesamiento de los datos sin procesar par
 
 > Nota: Los roles que se describen aquí representan a los roles clave relacionados con los datos que se encuentran en la mayoría de las organizaciones medianas y grandes. Hay roles adicionales de este tipo que no se mencionan aquí, como científico de datos y arquitecto de datos; además, existen otros profesionales técnicos que trabajan con datos, como los desarrolladores de aplicaciones y los ingenieros de software.
 
-[Unidad siguiente: Análisis de los servicios de datos](2-03-data-services.md)
+[Unidad siguiente: Análisis de los servicios de datos](02-03-data-services.md)

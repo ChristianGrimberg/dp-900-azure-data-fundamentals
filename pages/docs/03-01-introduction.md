@@ -22,4 +22,4 @@ En este módulo, aprenderá a realizar lo siguiente:
 * Identificar los tipos de instrucciones de SQL
 * Identificar los objetos comunes de base de datos relacionales
 
-[Unidad siguiente: [Unidad siguiente: Información sobre los datos relacionales](3-02-relational-data.md)
+[Unidad siguiente: Información sobre los datos relacionales](03-02-relational-data.md)
